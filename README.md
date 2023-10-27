@@ -1,4 +1,4 @@
-![ImagePicker](https://github.com/hyperoslo/ImagePicker/blob/master/Resources/ImagePickerPresentation.png)
+![ImagePicker](https://github.com/KevinSnoopy/ImagePicker/blob/master/Resources/ImagePickerPresentation.png)
 
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License](https://img.shields.io/cocoapods/l/ImagePicker.svg?style=flat)](http://cocoadocs.org/docsets/ImagePicker)
@@ -6,7 +6,7 @@
 
 ## Description
 
-<img src="https://github.com/hyperoslo/ImagePicker/blob/master/Resources/ImagePickerIcon.png" alt="ImagePicker Icon" align="right" />
+<img src="https://github.com/KevinSnoopy/ImagePicker/blob/master/Resources/ImagePickerIcon.png" alt="ImagePicker Icon" align="right" />
 
 **ImagePicker** is an all-in-one camera solution for your iOS app. It lets your users select images from the library and take pictures at the same time. As a developer you get notified of all the user interactions and get the beautiful UI for free, out of the box, it's just that simple.
 
@@ -82,7 +82,7 @@ pod 'ImagePicker'
 To install just write into your Cartfile:
 
 ```ruby
-github "hyperoslo/ImagePicker"
+github "KevinSnoopy/ImagePicker"
 ```
 
 ## Author
@@ -91,8 +91,8 @@ github "hyperoslo/ImagePicker"
 
 ## Contribute
 
-We would love you to contribute to **ImagePicker**, check the [CONTRIBUTING](https://github.com/hyperoslo/ImagePicker/blob/master/CONTRIBUTING.md) file for more info.
+We would love you to contribute to **ImagePicker**, check the [CONTRIBUTING](https://github.com/KevinSnoopy/ImagePicker/blob/master/CONTRIBUTING.md) file for more info.
 
 ## License
 
-**ImagePicker** is available under the MIT license. See the [LICENSE](https://github.com/hyperoslo/ImagePicker/blob/master/LICENSE.md) file for more info.
+**ImagePicker** is available under the MIT license. See the [LICENSE](https://github.com/KevinSnoopy/ImagePicker/blob/master/LICENSE.md) file for more info.
