@@ -85,10 +85,6 @@ To install just write into your Cartfile:
 github "KevinSnoopy/ImagePicker"
 ```
 
-## Author
-
-[Hyper](http://hyper.no) made this with ❤️
-
 ## Contribute
 
 We would love you to contribute to **ImagePicker**, check the [CONTRIBUTING](https://github.com/KevinSnoopy/ImagePicker/blob/master/CONTRIBUTING.md) file for more info.
